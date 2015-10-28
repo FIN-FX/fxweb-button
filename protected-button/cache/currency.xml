@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<account_order>
+<unsupport/>
+<logged sessioncount="0" visitscount="0"/>
+<locale language="en">
+<date id="20151028T12:08:26" traditional="28.10.2015">28 Oct 2015,Wed 12:08:26</date>
+</locale>
+<request url_base="http://privat24.privatbank.ua/p24/" url="/accountorder" os="Unknown" win="N" ie="N"/>
+<info>
+<dump exchange="" coursid="5" oper="prp" PUREXML=""/>
+</info>
+
+<row><exchangerate ccy="RUR" base_ccy="UAH" buy="0.35500" sale="0.38000"/></row><row><exchangerate ccy="EUR" base_ccy="UAH" buy="25.80000" sale="26.80000"/></row><row><exchangerate ccy="USD" base_ccy="UAH" buy="23.30000" sale="24.30000"/></row></account_order>
